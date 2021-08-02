@@ -18,3 +18,28 @@ The result is usually funny (or strange).
 - bobs_budget.php
 
 This project uses arrays and calculates annual amount of money that Bob can save on his new job.
+
+- bobby_tables.php
+
+This project collects the user’s name, character, email and birth year from the input form.
+It also sanitizes and validates the data.
+
+- repetitive_cafe.php
+
+This project uses different types of loops with HTML to create the cafe's menu.
+
+- fizz_buzz.php
+
+This project prints the numbers from 1 to 100 (inclusive), except for these cases:
+* If a number is a multiple of 3, it prints "Fizz".
+* If a number is a multiple of 5, it prints "Buzz".
+* If a number is a multiple of both 3 and 5, it prints "FizzBuzz".
+
+- number_guessing.php
+
+In this project is a number guessing game. It generates a random number between 1 and 10. 
+You’ll run the game 10 times and get some information about your guessing abilities.
+
+- magic8ball.php
+
+In this project, I wrote a function that can answer any “yes” or “no” question.
